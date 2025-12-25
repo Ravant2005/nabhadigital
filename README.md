@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-**🌐 [Try Live Demo](https://messiahravant-ship-it.github.io/nabhadigital/)** - Experience the platform in action!
+**🌐 [Try Live Demo](https://ravant2005.github.io/nabhadigital/)** - Experience the platform in action!
 
 > **Note:** The demo showcases the offline-capable web version with full multi-language support and gamified learning features.
 
@@ -132,7 +132,7 @@ Many government schools in Nabha and nearby rural areas lack updated computer in
 ## 📁 Project Resources
 
 ### 🌐 Live Demo
-- **[Web Platform Demo](https://messiahravant-ship-it.github.io/nabhadigital/)** - Interactive demo showcasing all features
+- **[Web Platform Demo](https://ravant2005.github.io/nabhadigital/)** - Interactive demo showcasing all features
 
 ### 📊 Presentation
 - [View Project Presentation](./SIH2025-nabhaeducation.pptx) - Comprehensive project overview and demo
